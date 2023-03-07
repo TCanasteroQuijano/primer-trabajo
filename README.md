@@ -1,1 +1,1 @@
-# primer-trabajo
+este es un repositorio de como clonar uno y modificarlo desde mi escritorio 
